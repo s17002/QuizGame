@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="Title">クイズゲーム</string>
+    <string name="Normal">ノーマル</string>
+    <string name="Hard">ハード</string>
+    <string name="Landom">ランダム</string>
+    <string name="Category">ジャンル選択</string>
+    <string name="Number">すべてのジャンル</string>
+    <string name="Category2">ジャンル選択</string>
+    <string name="Number2">すべてのジャンル</string>
+    <string name="Category3">ジャンル選択</string>
+    <string name="Number3">Button6</string>
+    <string name="question">TextView</string>
+    <string name="Answer">Button</string>
+    <string name="Amswer2">Button</string>
+    <string name="Answer3">Button</string>
+    <string name="Answer4">Button</string>
+    <string name="question2">TextView</string>
+    <string name="Answer5">Button</string>
+    <string name="Answer6">Button</string>
+    <string name="Answer7">Button</string>
+    <string name="Answer8">Button</string>
+    <string name="Number01">s17001</string>
+    <string name="Number07">s17007</string>
+    <string name="Number02">s17002</string>
+    <string name="Number03">s17003</string>
+    <string name="Number05">s17005</string>
+    <string name="Number04">s17004</string>
+    <string name="Number06">s17006</string>
+    <string name="Number08">s17008</string>
+    <string name="Number09">s17009</string>
+    <string name="Number10">s17010</string>
+    <string name="Number11">s17011</string>
+    <string name="Number12">s17012</string>
+    <string name="question3">TextView</string>
+    <string name="Answer9">Button</string>
+    <string name="Answer10">Button</string>
+    <string name="button">Button</string>
+    <string name="Answer12">Button</string>
+    <string name="Nu01">s17001</string>
+    <string name="Nu02">s17002</string>
+    <string name="Nu03">s17003</string>
+    <string name="Nu04">s17004</string>
+    <string name="Nu05">s17005</string>
+    <string name="Nu06">s17006</string>
+    <string name="Nu07">s17007</string>
+    <string name="Nu08">s17008</string>
+    <string name="Nu09">s17009</string>
+    <string name="Nu10">s17010</string>
+    <string name="Nu11">s17011</string>
+    <string name="Nu12">s17012</string>
+    <string name="bu">Button</string>
+
+
+</resources>
